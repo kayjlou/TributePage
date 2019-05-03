@@ -1,0 +1,53 @@
+#main {
+  background-color: lightgray;
+}
+
+#title {
+  text-align: center;
+  padding: 5px;
+}
+
+#about {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+#img-div {
+  margin-top: 10px;
+  border: 5px black solid;
+  width: 50%;
+  margin: auto;
+  background-color: white;
+}
+
+#img {
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+#img-caption {
+  text-align: center;
+  padding: 10px;
+}
+
+#tribute-info {
+  text-align: center;
+  padding: 30px;
+  width: 75%;
+  margin: auto;
+}
+
+h3 {
+  padding-top: 10px;
+}
+
+p {
+  font-size: 20px;
+}
+
+#more-info {
+  text-align: center;
+  padding-bottom: 15px;
+  font-size: 20px;
+}
